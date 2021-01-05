@@ -1,0 +1,256 @@
+.app {
+  font-family: campton !important;
+}
+
+.bold_me {
+  font-family: campton_bold !important;
+}
+
+h2,
+p {
+  color: white;
+}
+.colored {
+  color: #f47824 !important;
+}
+
+.para3 img {
+  height: 55px;
+  width: 55px;
+}
+#section_2a img {
+  height: 90px;
+  width: 90px;
+}
+
+a.navbar-brand {
+  color: #fff;
+  font-size: 32.5px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 26px;
+  text-transform: uppercase;
+}
+
+.who_we_are {
+  background-image: url("./assets/yellow_hover.png");
+  background-repeat: no-repeat;
+}
+.navbar-brand:hover {
+  color: white;
+}
+.navbar-brand {
+  display: inline-block;
+  padding-top: 0.3125rem;
+  padding-bottom: 0.3125rem;
+  margin-right: 1rem;
+  font-size: 1.25rem;
+  line-height: inherit;
+  white-space: nowrap;
+  font-family: "exotic";
+}
+#contact_abc label {
+  font-weight: bold !important;
+  color: #2d2d2d;
+}
+
+.banner-content {
+  margin: 0 auto;
+  padding: 150px 0 100px;
+  text-align: center;
+  color: white;
+  max-width: 1140px;
+}
+
+.upper_part {
+  background-image: url(./assets/desk_back.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 612px;
+  padding: 15px 10px;
+}
+
+@media only screen and (min-width: 768px) {
+  .banner-title {
+    font-size: 56px;
+    line-height: 64px;
+  }
+}
+
+.banner-text {
+  opacity: 0.8;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 36px;
+}
+
+.bg-dark-yellow {
+  background-color: #f47824;
+  padding: 100px 0;
+}
+
+.video-section {
+  padding: 10px;
+  border: 4px solid #fff;
+  border-radius: 16px;
+  position: relative;
+}
+
+@media only screen and (min-width: 768px) {
+  .title {
+    /* font-size: 46px; */
+    line-height: 60px;
+    font-size: 43px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .p-text {
+    opacity: 0.8;
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+
+.application_sec {
+  padding: 70px 0px;
+}
+
+.card {
+  padding: 30px 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 24px 0 rgba(0, 0, 0, 0.12);
+  height: 420px !important;
+  margin: 20px;
+  display: block !important;
+}
+
+.card p {
+  color: black;
+  margin-top: 15px;
+  font-size: 18px;
+}
+
+.joining-us-bg {
+  position: relative;
+  background-color: #f4f4f4;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.space {
+  padding: 64px 0;
+}
+
+.space img {
+  width: 100px !important;
+  margin: 0px auto;
+}
+
+.space .card {
+  box-shadow: none;
+  background: none;
+  border: none;
+  text-align: center;
+}
+
+.space h3 {
+  font-size: 16px;
+}
+.space p {
+  font-size: 16px;
+}
+
+.para3 .card {
+  height: 330px !important;
+}
+
+.Contact_sec {
+  padding: 0px;
+}
+
+.Contact_sec {
+  background-color: #fef3e6;
+  margin-top: 100px;
+  padding: 50px 0px;
+}
+.mr-0,
+.mx-0 {
+  margin-right: 0 !important;
+}
+
+.contact_container {
+  width: 70%;
+  margin: 0px auto;
+}
+
+.Contact_sec form input {
+  border: 1px solid #ced4da !important;
+  /* height: 72px; */
+  padding: 20px 30px;
+  border-radius: 8px;
+  letter-spacing: 1px;
+  font-size: 16px;
+  height: 65px;
+}
+
+.Contact_sec form textarea {
+  padding: 20px;
+}
+
+.Contact_sec form .btn {
+  border: 1px solid #dcdcdc;
+  width: 100%;
+  font-size: 24px;
+  padding: 15px 0px;
+  border-radius: 8px;
+  margin-bottom: 100px !important;
+  display: inherit;
+  background-color: #f47824;
+}
+
+@media (max-width: 500px) {
+  .upper_part Button {
+    margin-top: 20px;
+    text-align: center;
+  }
+  .mob {
+    flex-wrap: wrap;
+  }
+  .button_homepage {
+    font-size: 14px !important;
+  }
+  .Contact_sec {
+    margin-top: 30px !important;
+  }
+  .client_section div {
+    padding: 5px !important;
+  }
+  .cardy {
+    height: 300px !important;
+  }
+  .upper_part {
+    background-image: url(./assets/mob_back.png);
+  }
+  a.navbar-brand {
+    font-size: 21px;
+  }
+  .mob_head_2 {
+    font-size: 20px;
+  }
+}
+
+Button,
+a {
+  border: none !important;
+  outline: none !important;
+  text-decoration: none !important;
+}

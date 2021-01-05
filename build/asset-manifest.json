@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.368ae2a9.chunk.css",
+    "main.js": "/static/js/main.05df440f.chunk.js",
+    "main.js.map": "/static/js/main.05df440f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6495b2d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6495b2d2.js.map",
+    "static/css/2.c6f7d9a8.chunk.css": "/static/css/2.c6f7d9a8.chunk.css",
+    "static/js/2.05cb91e8.chunk.js": "/static/js/2.05cb91e8.chunk.js",
+    "static/js/2.05cb91e8.chunk.js.map": "/static/js/2.05cb91e8.chunk.js.map",
+    "static/js/3.9380c402.chunk.js": "/static/js/3.9380c402.chunk.js",
+    "static/js/3.9380c402.chunk.js.map": "/static/js/3.9380c402.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c6f7d9a8.chunk.css.map": "/static/css/2.c6f7d9a8.chunk.css.map",
+    "static/css/main.368ae2a9.chunk.css.map": "/static/css/main.368ae2a9.chunk.css.map",
+    "static/js/2.05cb91e8.chunk.js.LICENSE.txt": "/static/js/2.05cb91e8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/campton-semibold.4fa4f273.ttf",
+    "static/media/campton-light.6598ea44.ttf": "/static/media/campton-light.6598ea44.ttf",
+    "static/media/client1.e51d76a4.png": "/static/media/client1.e51d76a4.png",
+    "static/media/client2.4bf9bb43.png": "/static/media/client2.4bf9bb43.png",
+    "static/media/client3.8e3518ef.png": "/static/media/client3.8e3518ef.png",
+    "static/media/client4.1c612e43.png": "/static/media/client4.1c612e43.png",
+    "static/media/client5.8e3518ef.png": "/static/media/client5.8e3518ef.png",
+    "static/media/App.css": "/static/media/yellow_hover.b4d050dc.png",
+    "static/media/home_box.7182db6f.png": "/static/media/home_box.7182db6f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6495b2d2.js",
+    "static/css/2.c6f7d9a8.chunk.css",
+    "static/js/2.05cb91e8.chunk.js",
+    "static/css/main.368ae2a9.chunk.css",
+    "static/js/main.05df440f.chunk.js"
+  ]
+}
